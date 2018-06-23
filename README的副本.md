@@ -1,2 +1,0 @@
-# client
-biteeny client project
